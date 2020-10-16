@@ -19,4 +19,4 @@ Build the Catkin space and edited the CMake files to process whole simulation in
 
 
 
-https://github.com/crkaushik93/Home-Service-Robot---RSEND---Project-5/image imp 2.PNG?raw=true)
+https://github.com/crkaushik93/Home-Service-Robot---RSEND---Project-5/image_imp_2.PNG?raw=true)
