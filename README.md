@@ -15,3 +15,5 @@ Coded ROS nodes in C++ for making the robot navigate autonomoulsy.
 Developed a pick and place algorithm to enable the robot move to the position of the object and pick it and place it to the required goal. 
 
 Build the Catkin space and edited the CMake files to process whole simulation in the Gazebo environment.
+
+
