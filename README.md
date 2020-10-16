@@ -17,3 +17,4 @@ Developed a pick and place algorithm to enable the robot move to the position of
 Build the Catkin space and edited the CMake files to process whole simulation in the Gazebo environment.
 
 
+![GitHub Logo](/images/imp2.png)
