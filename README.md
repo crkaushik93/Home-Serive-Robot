@@ -1,4 +1,4 @@
-# Home-Service-Robot---RSEND---Project-5
+# Home-Service-Robot
 
 Interfaced essential ROS packages such as Navigation using the Slam_gmapping package and estimating the pose of the Robot using the EKF package  to localise a robot in a simulation environment
 
